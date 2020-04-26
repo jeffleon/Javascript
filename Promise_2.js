@@ -2,7 +2,7 @@
 B1RS5p7asXPvdPTAcWn3P68X89QWUKaM
 */
 let wordAPI = "https://random-word-api.herokuapp.com/word?number=1";
-let gifAPI ="http://api.giphy.com/v1/gifs/search?&api_key=B1RS5p7asXPvdPTAcWn3P68X89QWUKaM&q=";
+let gifAPI ="https://api.giphy.com/v1/gifs/search?&api_key=B1RS5p7asXPvdPTAcWn3P68X89QWUKaM&q=";
 function setup(){
     noCanvas();
     delay(1000)
